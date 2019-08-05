@@ -6,6 +6,12 @@ Implementation of Tornado Web Authentication in PHP.
 
 <p align="center"><img src="https://user-images.githubusercontent.com/5435389/62345012-db765380-b4c6-11e9-834f-df22ee20ae39.jpg" height="256" /></p>
 
+## Getting Started
+
+First, you need to have the [`composer`](https://getcomposer.org/) installed. After this, run the `require` command of `composer` to install the package as your project dependency.
+
+    composer require jusbrasil/tornado-auth-php
+
 ## Usage
 
 > namespace
