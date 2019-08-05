@@ -1,4 +1,8 @@
-<img align="right" height="48" src="https://user-images.githubusercontent.com/5435389/62345208-ba623280-b4c7-11e9-8fc4-2647accfc306.png" style="padding-top: 16px">
+<img align="right" height="48" src="https://user-images.githubusercontent.com/5435389/62345208-ba623280-b4c7-11e9-8fc4-2647accfc306.png" style="padding-top: 36px">
+
+[![Latest Stable Version](https://poser.pugx.org/jusbrasil/tornado-auth-php/v/stable)](https://packagist.org/packages/jusbrasil/tornado-auth-php)
+[![Total Downloads](https://poser.pugx.org/jusbrasil/tornado-auth-php/downloads)](https://packagist.org/packages/jusbrasil/tornado-auth-php)
+[![License](https://poser.pugx.org/jusbrasil/tornado-auth-php/license)](https://packagist.org/packages/jusbrasil/tornado-auth-php)
 
 # Tornado Auth PHP
 
