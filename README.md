@@ -1,10 +1,20 @@
-<img align="right" height="48" src="https://user-images.githubusercontent.com/5435389/62345208-ba623280-b4c7-11e9-8fc4-2647accfc306.png" style="padding-top: 16px">
+<img align="right" height="48" src="https://user-images.githubusercontent.com/5435389/62345208-ba623280-b4c7-11e9-8fc4-2647accfc306.png" style="padding-top: 36px">
+
+[![Latest Stable Version](https://poser.pugx.org/jusbrasil/tornado-auth-php/v/stable)](https://packagist.org/packages/jusbrasil/tornado-auth-php)
+[![Total Downloads](https://poser.pugx.org/jusbrasil/tornado-auth-php/downloads)](https://packagist.org/packages/jusbrasil/tornado-auth-php)
+[![License](https://poser.pugx.org/jusbrasil/tornado-auth-php/license)](https://packagist.org/packages/jusbrasil/tornado-auth-php)
 
 # Tornado Auth PHP
 
 Implementation of Tornado Web Authentication in PHP.
 
 <p align="center"><img src="https://user-images.githubusercontent.com/5435389/62345012-db765380-b4c6-11e9-834f-df22ee20ae39.jpg" height="256" /></p>
+
+## Getting Started
+
+First, you need to have the [`composer`](https://getcomposer.org/) installed. After this, run the `require` command of `composer` to install the package as your project dependency.
+
+    composer require jusbrasil/tornado-auth-php
 
 ## Usage
 
